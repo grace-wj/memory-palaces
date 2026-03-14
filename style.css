@@ -94,6 +94,20 @@
     margin-bottom: 2.25rem;
     font-size: 0.98rem;
   }
+  .meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .author {
+    text-align: left;
+  }
+  
+  .date {
+    text-align: right;
+  }
   
   p {
     margin: 0 0 1.25rem;
